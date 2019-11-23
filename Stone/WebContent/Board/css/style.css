@@ -1,0 +1,157 @@
+/*
+ *		Subject: Board Style
+ *		Created Date: 2019-11-19
+ *		Filename: style.css
+ *		Author: Dodo (rabbit.white@daum.net)
+ *		Description:
+ *
+*/
+
+/* 목록(List) */
+.h2_list{
+	font-family: 'NanumGothic';
+	font-size:15px;
+	font-weight:bold;
+}
+
+.tg_list{
+	font-family: 'NanumGothic';
+	font-size:12px;
+	width:100%;
+    border-top: 1px solid #444444;
+    border-collapse: collapse;
+}
+
+.tg_list .header{
+	background-color:#FF0040;
+	color:#FFF;
+	text-align:center;
+	font-weight:bold;
+	border: 1px solid #444444;
+    border-bottom: 1px solid #444444;
+	padding:10px;
+}
+
+.tg_list td{
+	border: 1px solid #444444;
+    border-bottom: 1px solid #444444;
+	padding:10px;
+	text-align:center;
+}
+
+/* 글쓰기 */
+.h2_write{
+	font-family: 'NanumGothic';
+	font-size:15px;
+	font-weight:bold;
+}
+
+.tg_write{
+	font-family: 'NanumGothic';
+	font-size:12px;
+	width:100%;
+    border-top: 1px solid #444444;
+    border-collapse: collapse;
+}
+
+.tg_write .header{
+	background-color:#FF0040;
+	color:#FFF;
+	text-align:center;
+	font-weight:bold;
+	border: 1px solid #444444;
+    border-bottom: 1px solid #444444;
+	padding:10px;
+}
+
+.tg_write td{
+	border: 1px solid #444444;
+    border-bottom: 1px solid #444444;
+	padding:10px;
+	text-align:center;
+}
+
+.tg_write .input_write{
+	width:100%;
+	height:100%;
+}
+
+.tg_write .textarea_write{
+	width:100%;
+	height:100%;
+}
+
+/* 수정 */
+.h2_modify{
+	font-family: 'NanumGothic';
+	font-size:15px;
+	font-weight:bold;
+}
+
+.tg_modify{
+	font-family: 'NanumGothic';
+	font-size:12px;
+	width:100%;
+    border-top: 1px solid #444444;
+    border-collapse: collapse;
+}
+
+.tg_modify .header{
+	background-color:#FF0040;
+	color:#FFF;
+	text-align:center;
+	font-weight:bold;
+	border: 1px solid #444444;
+    border-bottom: 1px solid #444444;
+	padding:10px;
+}
+
+.tg_modify td{
+	border: 1px solid #444444;
+    border-bottom: 1px solid #444444;
+	padding:10px;
+	text-align:center;
+}
+
+.tg_modify .input_modify{
+	width:100%;
+	height:100%;
+}
+
+.tg_modify .textarea_modify{
+	width:100%;
+	height:100%;
+}
+
+
+/* 글 읽기 */
+.h2_view{
+	font-family: 'NanumGothic';
+	font-size:15px;
+	font-weight:bold;
+}
+
+.tg_view{
+	font-family: 'NanumGothic';
+	font-size:12px;
+	width:100%;
+    border-top: 1px solid #444444;
+    border-collapse: collapse;
+}
+
+.tg_view .header{
+	background-color:#FF0040;
+	color:#FFF;
+	text-align:center;
+	font-weight:bold;
+	border: 1px solid #444444;
+    border-bottom: 1px solid #444444;
+	padding:10px;
+}
+
+.tg_view td{
+	border: 1px solid #444444;
+    border-bottom: 1px solid #444444;
+	padding:10px;
+	text-align:center;
+}
