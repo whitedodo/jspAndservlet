@@ -8,3 +8,4 @@ Servlet, JSP
 ##### 제작자(Author): 도도(Dodo) / rabbit.white@daum.net
 ##### 라이브러리(Library): 
 ##### 라이선스(License): GNU / GPL v3 License
+##### 설명(Description): 실패한 작업
